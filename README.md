@@ -1,2 +1,6 @@
-# solidity-training
-Basic projects for getting started with Solidity
+# Solidity Training
+
+Basic projects for getting started with **Solidity**.
+
+
+## Lottery
